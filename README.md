@@ -16,8 +16,8 @@ There's now a dedicated support channel in Slack. Visit [this page][21] to get a
 MIT
 
 [1]: https://github.com/bevacqua/dragula/blob/master/resources/demo.png
-[2]: http://bevacqua.github.io/dragula/
-[3]: https://github.com/bevacqua/dragula/blob/master/resources/logo.png
+[2]: https://github.com/hamedbaatour/cSun
+[3]: https://lh3.googleusercontent.com/vMEbbn_fxSNHhy0Mz8C7cNL2VBYMXm6QvxGAUJDypcg_j7-kdpm0JuLJyhZKUO-DUxI=w300-rw
 [4]: https://travis-ci.org/bevacqua/dragula
 [5]: https://travis-ci.org/bevacqua/dragula.svg
 [6]: http://api.flattr.com/button/flattr-badge-large.png
