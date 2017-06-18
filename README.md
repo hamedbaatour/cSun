@@ -17,7 +17,7 @@ MIT
 
 [1]: https://github.com/bevacqua/dragula/blob/master/resources/demo.png
 [2]: https://github.com/hamedbaatour/cSun
-[3]: blob:http://imgur.com/68092937-a1ed-40f1-93c6-8691ebfe462a
+[3]: http://imgur.com/68092937-a1ed-40f1-93c6-8691ebfe462a
 [4]: https://travis-ci.org/bevacqua/dragula
 [5]: https://travis-ci.org/bevacqua/dragula.svg
 
