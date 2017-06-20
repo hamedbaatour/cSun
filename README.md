@@ -23,7 +23,7 @@ Apache License 2.0
 
 [14]: https://github.com/bevacqua/dragula/blob/master/.github/contributing.markdown
 [17]: https://gitter.im/csun-app/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link
-[18]: https://travis-ci.org/hamedbaatour/cSun
+[18]: https://badges.gitter.im/Join%20Chat.svg
 [19]: https://rawgit.com/bevacqua/dragula/master/resources/patreon.svg
 [20]: https://patreon.com/bevacqua
 [21]: https://dragula-slackin.herokuapp.com/
