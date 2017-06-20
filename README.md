@@ -22,8 +22,8 @@ Apache License 2.0
 [5]: https://travis-ci.org/hamedbaatour/cSun.svg
 
 [14]: https://github.com/bevacqua/dragula/blob/master/.github/contributing.markdown
-[17]: https://dragula-slackin.herokuapp.com/badge.svg
-[18]: https://bevacqua.github.io/dragula/
+[17]: https://webhooks.gitter.im/e/06807cc33a667d622e68
+[18]: https://travis-ci.org/hamedbaatour/cSun
 [19]: https://rawgit.com/bevacqua/dragula/master/resources/patreon.svg
 [20]: https://patreon.com/bevacqua
 [21]: https://dragula-slackin.herokuapp.com/
