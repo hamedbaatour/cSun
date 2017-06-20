@@ -1,6 +1,6 @@
 [![logo.png][3]][2]
 
-[![Travis CI][5]][4] [![Chat on Gitter][17]][18] [![Support](https://supporter.60devs.com/api/b/f4co3kmopd9mngbzjgn6ymbug)](https://supporter.60devs.com/give/f4co3kmopd9mngbzjgn6ymbug) [![Patreon][19]][20]
+[![Travis CI][5]][4] [![Gitter][17]][18] [![Support](https://supporter.60devs.com/api/b/f4co3kmopd9mngbzjgn6ymbug)](https://supporter.60devs.com/give/f4co3kmopd9mngbzjgn6ymbug) [![Patreon][19]][20]
 
 an auto brightness hater? never struggle to increase your brightness in a sunny day with cSun (see in the sun)
 # Contributing
@@ -22,8 +22,8 @@ Apache License 2.0
 [5]: https://travis-ci.org/hamedbaatour/cSun.svg
 
 [14]: https://github.com/bevacqua/dragula/blob/master/.github/contributing.markdown
-[17]: https://gitter.im/csun-app/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link
-[18]: https://badges.gitter.im/Join%20Chat.svg
+[17]: https://badges.gitter.im/Join%20Chat.svg
+[18]: https://gitter.im/csun-app/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link
 [19]: https://rawgit.com/bevacqua/dragula/master/resources/patreon.svg
 [20]: https://patreon.com/bevacqua
 [21]: https://dragula-slackin.herokuapp.com/
